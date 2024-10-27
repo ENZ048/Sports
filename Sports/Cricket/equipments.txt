@@ -1,0 +1,8 @@
+- Bat
+- Ball
+- Wickets (stumps and bails)
+- Gloves
+- Pads
+- Helmet
+- Box/Abdominal Guard
+- Shoes

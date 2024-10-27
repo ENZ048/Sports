@@ -1,8 +1,0 @@
-- Football (Soccer Ball)
-- Goalposts and Net
-- Shin Guards
-- Cleats/Football Boots
-- Jersey
-- Shorts
-- Socks
-- Goalkeeper Gloves
